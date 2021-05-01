@@ -1,26 +1,30 @@
-CFOP
+# CFOP
 
-Cross - try for <10 moves
+## Cross
 
-FTL - try for <=4 cube rotations
+try for <10 moves
 
-Two-look OLL
+## FTL
 
-  bottom edges
+try for <=4 cube rotations
+
+## Two-look OLL
+
+### bottom: edges
     bar: F R U R' U' F'  ==  F (sexy) F'
     ell: f R U R' U' f'  ==  f (sexy) f'
 
-  corner algs
+### corner algs
     S (Sune, OLL 27):            R U R' U R U2 R'
     S- (Anti-sune, OLL 26):      L' U' L U' L' U2 L  ***
     H (Dbl-sune, OLL 21):        R U R' U R U' R' U R U2 R'
     Pi (OLL 22):                 R U2 R2' U' R2 U' R2' U2 R
-    U (OLL 23):                  ???
+    U (OLL 23):                  R2 D R' U2 R D' R' U2 R'
     T (OLL 24):                  y B' R' F R B R' F' R
     L (OLL 25):                  y2 F R' F' L F R F' L'
 
 
-One-look PLL
+## One-look PLL
 
     H:                           M2' U M2' U2 M2' U M2'
     Ua:                          y2 F2 U' M U2 M' U' F2
@@ -44,5 +48,5 @@ One-look PLL
     V:                           ???
     Y:                           ???
 
-??? = I don't have an alg memorized for this.
+??? = I don't have an alg memorized for this.  
 *** = Mirror using left hand.
