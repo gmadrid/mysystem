@@ -12,7 +12,7 @@ Two-look OLL
 
   corner algs
     S (Sune, OLL 27):            R U R' U R U2 R'
-    S- (Anti-sune, OLL 26):      L' U' L U' L' U2 L
+    S- (Anti-sune, OLL 26):      L' U' L U' L' U2 L  ***
     H (Dbl-sune, OLL 21):        R U R' U R U' R' U R U2 R'
     Pi (OLL 22):                 R U2 R2' U' R2 U' R2' U2 R
     U (OLL 23):                  ???
