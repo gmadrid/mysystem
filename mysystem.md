@@ -33,7 +33,7 @@ try for <=4 cube rotations
 
 |    | Sym | Prob | Code | Alg | Image desc |
 | ---| --- | ---  | --- | ---  | --- |
-| ![H](images/h.svg) | H | 1/72 | | ```M2' U M2' U2 M2' U M2'``` | ```2<>8``` |
+| ![H](images/h.svg) | H | 1/72 | | ```M2' U M2' U2 M2' U M2'``` | `2<>8 4<>6` |
 | ![Ua](images/ua.svg) | Ua | 1/18 | R | ```F2 U' M U2 M' U' F2``` | ```8>6 6>4 4>8``` |
 | ![Ub](images/ub.svg) | Ub | 1/18 | R | ```F2 U M U2 M' U F2``` | ```8>4 4>6 6>8``` |
 | ![Z](images/z.svg) | Z | 1/36 | | ```(M2' U M2' U) (M' U2) (M2' U2 M') [U2]``` | ```2<>4 6<>8``` |
