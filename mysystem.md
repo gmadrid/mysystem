@@ -12,10 +12,10 @@ try for <=4 cube rotations
 
 ### bottom: edges
 
-|     | Name | Alg |
-| --- | --- | --- |
-| ![bar](images/bar.svg) | bar | ```F R U R' U' F'  ==  F (sexy) F'``` |
-| ![ell](images/ell.svg) | ell | ```f R U R' U' f'  ==  f (sexy) f'``` |
+|     | Name | Alg | Image desc |
+| --- | --- | --- | --- |
+| ![bar](images/bar.svg) | bar | ```F R U R' U' F'  ==  F (sexy) F'``` | ```xUx===xDx```|
+| ![ell](images/ell.svg) | ell | ```f R U R' U' f'  ==  f (sexy) f'``` | ```xUxL==x=x``` |
 
 ### corner algs
     S (Sune, OLL 27):        R U R' U R U2 R'
