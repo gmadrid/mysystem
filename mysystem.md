@@ -26,6 +26,10 @@ try for <=4 cube rotations
     T (OLL 24):              y B' R' F R B R' F' R
     L (OLL 25):              y2 F R' F' L F R F' L'
 
+|     | Sym | Names | Alg | Left | Image desc |
+| --- | ----   | ---   | --- | :---: | --- |
+| ![oll27](images/oll27.svg) | S      | OLL 27, Sune | ```R U R' U R U2 R'``` | | ```U=R=====D``` |
+| ![oll26](images/oll26.svg) | S- | OLL 26, Anti-sune | ```L' U' L U' L' U2 L``` | * | ```L=U=====R``` |
 
 ## One-look PLL
 
