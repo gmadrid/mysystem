@@ -11,8 +11,11 @@ try for <=4 cube rotations
 ## Two-look OLL
 
 ### bottom: edges
-    bar: F R U R' U' F'  ==  F (sexy) F'
-    ell: f R U R' U' f'  ==  f (sexy) f'
+
+|     | Name | Alg |
+| --- | --- | --- |
+| ![bar](images/bar.svg) | bar | ```F R U R' U' F'  ==  F (sexy) F'``` |
+| ![ell](images/ell.svg) | ell | ```f R U R' U' f'  ==  f (sexy) f'``` |
 
 ### corner algs
     S (Sune, OLL 27):        R U R' U R U2 R'
