@@ -31,25 +31,40 @@ try for <=4 cube rotations
 
 ## One-look PLL
 
-    H (1/72):   M2' U M2' U2 M2' U M2'
-    Ua (1/18):  y2 F2 U' M U2 M' U' F2
-    Ub (1/18):  y2 F2 U M U2 M' U F2
-    Z (1/36):   (M2' U M2' U) (M' U2) (M2' U2 M') [U2]
-    Aa (1/18):  l' U R' D2 R U' R' D2 R2 (x')
-    Ab (1/18):  y' r' U' L D2 L' U L D2 L2 ***
+|    | Sym | Prob | Code | Alg | Image desc |
+| ---| --- | ---  | --- | ---  | --- |
+| ![H](images/h.svg) | H | 1/72 | | ```M2' U M2' U2 M2' U M2'``` | ```2<>8``` |
+| ![Ua](images/ua.svg) | Ua | 1/18 | R | ```F2 U' M U2 M' U' F2``` | ```8>6 6>4 4>8``` |
+| ![Ub](images/ub.svg) | Ub | 1/18 | R | ```F2 U M U2 M' U F2``` | ```8>4 4>6 6>8``` |
+| ![Z](images/z.svg) | Z | 1/36 | | ```(M2' U M2' U) (M' U2) (M2' U2 M') [U2]``` | ```2<>4 6<>8``` |
+| ![Aa](images/aa.svg) | Aa | 1/18 | L | ```l' U R' D2 R U' R' D2 R2``` | ```1>3 3>9 9>1``` |
+| ![Ab](images/ab.svg) | Ab | 1/18 |  | ```r U' L D2 L' U L D2 L2``` | ```7>3 3>1 1>7``` |
+| ![E](images/e.svg) | E | 1/36 | ? | `````` | ```1<>7 3<>9``` |
+| ![F](images/f.svg) | F | 1/18 | ? | `````` | ```2<>8 3<>9``` |
+| ![Ga](images/ga.svg) | Ga | 1/18 | ? | ```R2 u R' U R' U' R u' R2 F' U F``` | ```1>3 3>7 7>1 2>4 4>6 6>2``` |
+| ![Gb](images/gb.svg) | Gb | 1/18 | ? | `````` | ```3>1 7>3 1>7 4>2 6>4 2>6``` |
+| ![Gc](images/gc.svg) | Gc | 1/18 | L? | ```L2 u' L U' L U L' u L2 F U' F'``` | ```9>3 3>1 1>9 6>4 4>2 2>6``` |
+| ![Gd](images/gd.svg) | Gd | 1/18 | L? | `````` | ```3>9 1>3 9>1 4>6 2>4 6>2``` |
+| ![Ja](images/ja.svg) | Ja | 1/18 | | ```R' U L' U2 R U' R' U2 L R U'``` | ```2<>4 1<>3``` |
+| ![Jb](images/jb.svg) | Jb | 1/18 | L | ```L U' R U2 L' U L U2 R' L' U ``` | ```1<>3 2<>6``` |
+| ![Na](images/na.svg) | Na | 1/72 |  | `````` | ```3<>7 4<>6``` |
+| ![Nb](images/nb.svg) | Nb | 1/72 |  | `````` | ```1<>9 4<>6``` |
+| ![Ra](images/ra.svg) | Ra | 1/18 | L | **`y R U R' F' R U2 R' U2 R' F R U R U2 R'`** | ```1<>3 4<>8``` |
+| ![Rb](images/rb.svg) | Rb | 1/18 |  | `````` | ```1<>3 6<>8``` |
+| ![T](images/t.svg) | T | 1/18 |  | ```R U R' U' R' F R2 U' R' U' R U R' F'``` | ```3<>9 4<>6``` |
+| ![V](images/v.svg) | V | 1/18 |  | `````` | ```1<>9 2<>6``` |
+| ![Y](images/y.svg) | Y | 1/18 |  | `````` | ```2<>4 1<>9``` |
+
+Codes: L = left hand, ? = don't know, R = revisit for better alg
+
     E (1/36):   ???
     F (1/18):   ???
-    Ga (1/18):  y R2 u R' U R' U' R u' R2 F' U F  ***
     Gb (1/18):  ???
-    Gc (1/18):  y' L2 u' L U' L U L' u L2 F U' F'
     Gd (1/18):  ???
-    Ja (1/18):  y R' U L' U2 R U' R' U2 L R U'
-    Jb (1/18):  y' L U' R U2 L' U L U2 R' L' U ***
     Na (1/72):  ???
     Nb (1/72):  ???
-    Ra (1/18):  y R U R' F' R U2 R' U2 R' F R U R U2 R' (learning)
+    Ra (1/18):  (learning)
     Rb (1/18):  ???
-    T (1/18):   R U R' U' R' F R2 U' R' U' R U R' F'
     V (1/18):   ???
     Y (1/18):   ???
 

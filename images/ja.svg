@@ -1,0 +1,92 @@
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   height="101"
+   width="101">
+<defs
+>
+<marker
+   id="arrow"
+   viewBox="0 0 10 10"
+   refX="5"
+   refY="5"
+   markerWidth="3"
+   markerHeight="3"
+   orient="auto-start-reverse">
+<path
+   d="M 0 0 L 10 5L 0 10z"
+   fill="red">
+</path>
+</marker>
+</defs>
+<path
+   fill="black"
+   border-width="0"
+   d="M 7 7 h 87 v 87 h -87 v -87">
+</path>
+<path
+   fill="yellow"
+   border-width="0"
+   d="M 11 11 h 25 v 25 h -25 v -25">
+</path>
+<path
+   fill="yellow"
+   border-width="0"
+   d="M 38 11 h 25 v 25 h -25 v -25">
+</path>
+<path
+   fill="yellow"
+   border-width="0"
+   d="M 65 11 h 25 v 25 h -25 v -25">
+</path>
+<path
+   fill="yellow"
+   border-width="0"
+   d="M 11 38 h 25 v 25 h -25 v -25">
+</path>
+<path
+   fill="yellow"
+   border-width="0"
+   d="M 38 38 h 25 v 25 h -25 v -25">
+</path>
+<path
+   fill="yellow"
+   border-width="0"
+   d="M 65 38 h 25 v 25 h -25 v -25">
+</path>
+<path
+   fill="yellow"
+   border-width="0"
+   d="M 11 65 h 25 v 25 h -25 v -25">
+</path>
+<path
+   fill="yellow"
+   border-width="0"
+   d="M 38 65 h 25 v 25 h -25 v -25">
+</path>
+<path
+   fill="yellow"
+   border-width="0"
+   d="M 65 65 h 25 v 25 h -25 v -25">
+</path>
+<line
+   x1="50"
+   y1="23"
+   x2="23"
+   y2="50"
+   stroke-width="4"
+   stroke="red"
+   marker-start="url(#arrow)"
+   marker-end="url(#arrow)">
+</line>
+<line
+   x1="23"
+   y1="23"
+   x2="77"
+   y2="23"
+   stroke-width="4"
+   stroke="red"
+   marker-start="url(#arrow)"
+   marker-end="url(#arrow)">
+</line>
+</svg>
+
