@@ -33,8 +33,8 @@ try for <=4 cube rotations
 | ![oll21](images/oll21.svg) | H | OLL 21, Double-sune | ```R U R' U R U' R' U R U2 R'``` | | ```L=R===L=R``` |
 | ![oll22](images/oll22.svg) | Pi | OLL 22 | ```R U2 R2' U' R2 U' R2' U2 R``` | | ```L=U===L=D``` |
 | ![oll23](images/oll23.svg) | U | OLL 23 | ```R2 D R' U2 R D' R' U2 R'``` | | ```F=====D=D``` |
-| ![oll24](images/oll24.svg) | T | OLL 24 | ```y B' R' F R B R' F' R``` | | ```L=R======``` |
-| ![oll25](images/oll25.svg) | L | OLL 25 | ```y2 F R' F' L F R F' L'``` | | ```F=R===D==``` |
+| ![oll24](images/oll24.svg) | T | OLL 24 | ```B' R' F R B R' F' R``` | | ```L=R======``` |
+| ![oll25](images/oll25.svg) | L | OLL 25 | ```F R' F' L F R F' L'``` | | ```F=R===D==``` |
 
 ## One-look PLL
 
