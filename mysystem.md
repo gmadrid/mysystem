@@ -18,13 +18,6 @@ try for <=4 cube rotations
 | ![ell](images/ell.svg) | ell | ```f R U R' U' f'  ==  f (sexy) f'``` | ```xUxL==x=x``` |
 
 ### corner algs
-    S (Sune, OLL 27):        R U R' U R U2 R'
-    S- (Anti-sune, OLL 26):  L' U' L U' L' U2 L  ***
-    H (Dbl-sune, OLL 21):    R U R' U R U' R' U R U2 R'
-    Pi (OLL 22):             R U2 R2' U' R2 U' R2' U2 R
-    U (OLL 23):              R2 D R' U2 R D' R' U2 R'
-    T (OLL 24):              y B' R' F R B R' F' R
-    L (OLL 25):              y2 F R' F' L F R F' L'
 
 |     | Sym | Names | Alg | Left | Image desc |
 | --- | ----   | ---   | --- | :---: | --- |
