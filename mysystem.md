@@ -39,7 +39,7 @@ try for <=4 cube rotations
 | ![Z](images/z.svg) | Z | 1/36 | | ```(M2' U M2' U) (M' U2) (M2' U2 M') [U2]``` | ```2<>4 6<>8``` |
 | ![Aa](images/aa.svg) | Aa | 1/18 | L | ```l' U R' D2 R U' R' D2 R2``` | ```1>3 3>9 9>1``` |
 | ![Ab](images/ab.svg) | Ab | 1/18 |  | ```r U' L D2 L' U L D2 L2``` | ```7>3 3>1 1>7``` |
-| ![E](images/e.svg) | E | 1/36 | ? | `````` | ```1<>7 3<>9``` |
+| ![E](images/e.svg) | E | 1/36 | N | `x' (R U' R' D) (R U R' D') (R U R' D) (R U' R' D') x` | ```1<>7 3<>9``` |
 | ![F](images/f.svg) | F | 1/18 | ? | `````` | ```2<>8 3<>9``` |
 | ![Ga](images/ga.svg) | Ga | 1/18 | ? | ```R2 u R' U R' U' R u' R2 F' U F``` | ```1>3 3>7 7>1 2>4 4>6 6>2``` |
 | ![Gb](images/gb.svg) | Gb | 1/18 | ? | `````` | ```3>1 7>3 1>7 4>2 6>4 2>6``` |
@@ -49,24 +49,10 @@ try for <=4 cube rotations
 | ![Jb](images/jb.svg) | Jb | 1/18 | L | ```L U' R U2 L' U L U2 L' R' U ``` | ```1<>3 2<>6``` |
 | ![Na](images/na.svg) | Na | 1/72 |  | `````` | ```3<>7 4<>6``` |
 | ![Nb](images/nb.svg) | Nb | 1/72 |  | `````` | ```1<>9 4<>6``` |
-| ![Ra](images/ra.svg) | Ra | 1/18 | L | `R U R' F' R U2 R' U2 R' F R U R U2 R' [U']` | `3<>9 4<>2` |
-| ![Rb](images/rb.svg) | Rb | 1/18 |  | `L' U' L F L' U2 L U2 L F' L' U' L' U2 L [U]` | `1<>7 2<>6` |
+| ![Ra](images/ra.svg) | Ra | 1/18 | NL | `R U R' F' R U2 R' U2 R' F R U R U2 R' [U']` | `3<>9 4<>2` |
+| ![Rb](images/rb.svg) | Rb | 1/18 | N | `L' U' L F L' U2 L U2 L F' L' U' L' U2 L [U]` | `1<>7 2<>6` |
 | ![T](images/t.svg) | T | 1/18 |  | ```R U R' U' R' F R2 U' R' U' R U R' F'``` | ```3<>9 4<>6``` |
 | ![V](images/v.svg) | V | 1/18 |  | `````` | ```1<>9 2<>6``` |
 | ![Y](images/y.svg) | Y | 1/18 |  | `````` | ```2<>4 1<>9``` |
 
-Codes: L = left hand, ? = don't know, R = revisit for better alg
-
-    E (1/36):   ???
-    F (1/18):   ???
-    Gb (1/18):  ???
-    Gd (1/18):  ???
-    Na (1/72):  ???
-    Nb (1/72):  ???
-    Ra (1/18):  (learning)
-    Rb (1/18):  ???
-    V (1/18):   ???
-    Y (1/18):   ???
-
-??? = I don't have an alg memorized for this.  
-*** = Mirror using left hand.
+Codes: L = left hand, ? = don't know, R = revisit for better alg, N = new, learning now
