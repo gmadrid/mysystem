@@ -69,10 +69,10 @@
    d="M 65 65 h 25 v 25 h -25 v -25">
 </path>
 <line
-   x1="23"
+   x1="77"
    y1="23"
    x2="77"
-   y2="23"
+   y2="77"
    stroke-width="4"
    stroke="red"
    marker-start="url(#arrow)"
@@ -82,7 +82,7 @@
    x1="23"
    y1="50"
    x2="50"
-   y2="77"
+   y2="23"
    stroke-width="4"
    stroke="red"
    marker-start="url(#arrow)"

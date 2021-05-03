@@ -46,11 +46,11 @@ try for <=4 cube rotations
 | ![Gc](images/gc.svg) | Gc | 1/18 | L? | ```L2 u' L U' L U L' u L2 F U' F'``` | ```9>3 3>1 1>9 6>4 4>2 2>6``` |
 | ![Gd](images/gd.svg) | Gd | 1/18 | L? | `````` | ```3>9 1>3 9>1 4>6 2>4 6>2``` |
 | ![Ja](images/ja.svg) | Ja | 1/18 | | ```R' U L' U2 R U' R' U2 L R U'``` | ```2<>4 1<>3``` |
-| ![Jb](images/jb.svg) | Jb | 1/18 | L | ```L U' R U2 L' U L U2 R' L' U ``` | ```1<>3 2<>6``` |
+| ![Jb](images/jb.svg) | Jb | 1/18 | L | ```L U' R U2 L' U L U2 L' R' U ``` | ```1<>3 2<>6``` |
 | ![Na](images/na.svg) | Na | 1/72 |  | `````` | ```3<>7 4<>6``` |
 | ![Nb](images/nb.svg) | Nb | 1/72 |  | `````` | ```1<>9 4<>6``` |
-| ![Ra](images/ra.svg) | Ra | 1/18 | L | **`y R U R' F' R U2 R' U2 R' F R U R U2 R'`** | ```1<>3 4<>8``` |
-| ![Rb](images/rb.svg) | Rb | 1/18 |  | `````` | ```1<>3 6<>8``` |
+| ![Ra](images/ra.svg) | Ra | 1/18 | L | `R U R' F' R U2 R' U2 R' F R U R U2 R' [U']` | `3<>9 4<>2` |
+| ![Rb](images/rb.svg) | Rb | 1/18 |  | `L' U' L F L' U2 L U2 L F' L' U' L' U2 L [U]` | `1<>7 2<>6` |
 | ![T](images/t.svg) | T | 1/18 |  | ```R U R' U' R' F R2 U' R' U' R U R' F'``` | ```3<>9 4<>6``` |
 | ![V](images/v.svg) | V | 1/18 |  | `````` | ```1<>9 2<>6``` |
 | ![Y](images/y.svg) | Y | 1/18 |  | `````` | ```2<>4 1<>9``` |
