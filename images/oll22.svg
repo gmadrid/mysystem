@@ -1,16 +1,80 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="101" width="101">
-<path fill="black" border-width="0" d="M 7,7 h 87 v 87 h -87 v -87" />
-<path fill="white" border-width="0" d="M 11,11 h 25 v 25 h -25 v -25" />
-<path fill="yellow" border-width="0" d="M 38,11 h 25 v 25 h -25 v -25" />
-<path fill="white" border-width="0" d="M 65,11 h 25 v 25 h -25 v -25" />
-<path fill="yellow" border-width="0" d="M 11,38 h 25 v 25 h -25 v -25" />
-<path fill="yellow" border-width="0" d="M 38,38 h 25 v 25 h -25 v -25" />
-<path fill="yellow" border-width="0" d="M 65,38 h 25 v 25 h -25 v -25" />
-<path fill="white" border-width="0" d="M 11,65 h 25 v 25 h -25 v -25" />
-<path fill="yellow" border-width="0" d="M 38,65 h 25 v 25 h -25 v -25" />
-<path fill="white" border-width="0" d="M 65,65 h 25 v 25 h -25 v -25" />
-<path fill="yellow" stroke="black" stroke-width="2" d="M 0,11 h 5 v 25 h -5 v -25" />
-<path fill="yellow" stroke="black" stroke-width="2" d="M 65,0 h 25 v 5 h -25 v -5" />
-<path fill="yellow" stroke="black" stroke-width="2" d="M 0,65 h 5 v 25 h -5 v -25" />
-<path fill="yellow" stroke="black" stroke-width="2" d="M 65,96 h 25 v 5 h -25 v -5" />
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   height="101"
+   width="101">
+<path
+   fill="black"
+   border-width="0"
+   d="M 7 7 h 87 v 87 h -87 v -87">
+</path>
+<path
+   fill="white"
+   border-width="0"
+   d="M 11 11 h 25 v 25 h -25 v -25">
+</path>
+<path
+   fill="yellow"
+   border-width="0"
+   d="M 38 11 h 25 v 25 h -25 v -25">
+</path>
+<path
+   fill="white"
+   border-width="0"
+   d="M 65 11 h 25 v 25 h -25 v -25">
+</path>
+<path
+   fill="yellow"
+   border-width="0"
+   d="M 11 38 h 25 v 25 h -25 v -25">
+</path>
+<path
+   fill="yellow"
+   border-width="0"
+   d="M 38 38 h 25 v 25 h -25 v -25">
+</path>
+<path
+   fill="yellow"
+   border-width="0"
+   d="M 65 38 h 25 v 25 h -25 v -25">
+</path>
+<path
+   fill="white"
+   border-width="0"
+   d="M 11 65 h 25 v 25 h -25 v -25">
+</path>
+<path
+   fill="yellow"
+   border-width="0"
+   d="M 38 65 h 25 v 25 h -25 v -25">
+</path>
+<path
+   fill="white"
+   border-width="0"
+   d="M 65 65 h 25 v 25 h -25 v -25">
+</path>
+<path
+   fill="yellow"
+   stroke="black"
+   stroke-width="2"
+   d="M 0 11 h 5 v 25 h -5 v -25">
+</path>
+<path
+   fill="yellow"
+   stroke="black"
+   stroke-width="2"
+   d="M 65 0 h 25 v 5 h -25 v -5">
+</path>
+<path
+   fill="yellow"
+   stroke="black"
+   stroke-width="2"
+   d="M 0 65 h 5 v 25 h -5 v -25">
+</path>
+<path
+   fill="yellow"
+   stroke="black"
+   stroke-width="2"
+   d="M 65 96 h 25 v 5 h -25 v -5">
+</path>
 </svg>
+
